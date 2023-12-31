@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Meeting-Management/static/css/main.ca52bfcd.css",
-    "main.js": "/Meeting-Management/static/js/main.a26aa05c.js",
+    "main.css": "/Meeting-Management/static/css/main.ceda03c9.css",
+    "main.js": "/Meeting-Management/static/js/main.e5f30921.js",
+    "static/media/Erorr_404.png": "/Meeting-Management/static/media/Erorr_404.a3ff552faf941065f3f8.png",
     "static/media/fa-solid-900.ttf": "/Meeting-Management/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
-    "static/media/404_error_with_a_landscape-rafiki.png": "/Meeting-Management/static/media/404_error_with_a_landscape-rafiki.ce754a4f397909995100.png",
     "static/media/fa-brands-400.ttf": "/Meeting-Management/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
     "static/media/fa-solid-900.woff2": "/Meeting-Management/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
     "static/media/fa-brands-400.woff2": "/Meeting-Management/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.ttf": "/Meeting-Management/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/Meeting-Management/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Meeting-Management/index.html",
-    "main.ca52bfcd.css.map": "/Meeting-Management/static/css/main.ca52bfcd.css.map",
-    "main.a26aa05c.js.map": "/Meeting-Management/static/js/main.a26aa05c.js.map"
+    "main.ceda03c9.css.map": "/Meeting-Management/static/css/main.ceda03c9.css.map",
+    "main.e5f30921.js.map": "/Meeting-Management/static/js/main.e5f30921.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca52bfcd.css",
-    "static/js/main.a26aa05c.js"
+    "static/css/main.ceda03c9.css",
+    "static/js/main.e5f30921.js"
   ]
 }
