@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Meeting-Management/static/css/main.b3c256c0.css",
+    "main.css": "/Meeting-Management/static/css/main.9a85ef63.css",
     "main.js": "/Meeting-Management/static/js/main.910ccf49.js",
     "static/media/Erorr_404.png": "/Meeting-Management/static/media/Erorr_404.a3ff552faf941065f3f8.png",
     "static/media/fa-solid-900.ttf": "/Meeting-Management/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.ttf": "/Meeting-Management/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/Meeting-Management/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Meeting-Management/index.html",
-    "main.b3c256c0.css.map": "/Meeting-Management/static/css/main.b3c256c0.css.map",
+    "main.9a85ef63.css.map": "/Meeting-Management/static/css/main.9a85ef63.css.map",
     "main.910ccf49.js.map": "/Meeting-Management/static/js/main.910ccf49.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3c256c0.css",
+    "static/css/main.9a85ef63.css",
     "static/js/main.910ccf49.js"
   ]
 }
